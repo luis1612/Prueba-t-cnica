@@ -1,6 +1,25 @@
-# product-management-1
+# product-management
 
 a [Sails v1](https://sailsjs.com) application
+
+```
+# clone the project
+git clone https://...
+
+# change directory
+cd project
+
+
+# start the dev server
+sails lift
+
+
+Project is running at http://localhost:1337/
+
+
+Remember to have your database manager installed in this case xampp and create the database: product_management to run the program locally.
+
+```
 
 
 ### Links
@@ -12,9 +31,7 @@ a [Sails v1](https://sailsjs.com) application
 + [Professional / enterprise options](https://sailsjs.com/enterprise)
 
 
-### Version info
 
-This app was originally generated on Tue Nov 26 2019 16:35:59 GMT+0530 (India Standard Time) using Sails v1.2.3.
 
 <!-- Internally, Sails used [`sails-generate@1.16.13`](https://github.com/balderdashy/sails-generate/tree/v1.16.13/lib/core-generators/new). -->
 
